@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<signos>
+    <signo>
+        <dataInicio>21/03</dataInicio>
+        <dataFim>20/04</dataFim>
+        <signoNome>Aries</signoNome>
+        <descricao>Áries (21/03 - 20/04)</descricao>
+    </signo>
+    <signo>
+        <dataInicio>21/04</dataInicio>
+        <dataFim>20/05</dataFim>
+        <signoNome>Touro</signoNome>
+        <descricao>Touro (21/04 - 20/05)</descricao>
+    </signo>
+    <signo>
+        <dataInicio>21/05</dataInicio>
+        <dataFim>20/06</dataFim>
+        <signoNome>Gemeos</signoNome>
+        <descricao>Gêmeos (21/05 - 20/06)</descricao>
+    </signo>
+    <signo>
+        <dataInicio>21/06</dataInicio>
+        <dataFim>22/07</dataFim>
+        <signoNome>Cancer</signoNome>
+        <descricao>Câncer (21/06 - 22/07)</descricao>
+    </signo>
+    <signo>
+        <dataInicio>23/07</dataInicio>
+        <dataFim>22/08</dataFim>
+        <signoNome>Leao</signoNome>
+        <descricao>Leão (23/07 - 22/08)</descricao>
+    </signo>
+    <signo>
+        <dataInicio>23/08</dataInicio>
+        <dataFim>22/09</dataFim>
+        <signoNome>Virgem</signoNome>
+        <descricao>Virgem (23/08- 22/09)</descricao>
+    </signo>
+    <signo>
+        <dataInicio>23/09</dataInicio>
+        <dataFim>23/10</dataFim>
+        <signoNome>Libra</signoNome>
+        <descricao>Libra (23/09 - 22/10)</descricao>
+    </signo>
+    <signo>
+        <dataInicio>23/10</dataInicio>
+        <dataFim>21/11</dataFim>
+        <signoNome>Escorpiao</signoNome>
+        <descricao>Escorpião (23/10 - 21/11)</descricao>
+    </signo>
+    <signo>
+        <dataInicio>22/11</dataInicio>
+        <dataFim>21/12</dataFim>
+        <signoNome>Sargitario</signoNome>
+        <descricao>Sagitário (22/11 - 21/12)</descricao>
+    </signo>
+    <signo>
+        <dataInicio>22/12</dataInicio>
+        <dataFim>20/01</dataFim>
+        <signoNome>Capricornio</signoNome>
+        <descricao>Capricórnio (22/12 - 20/01)</descricao>
+    </signo>
+    <signo>
+        <dataInicio>21/01</dataInicio>
+        <dataFim>19/02</dataFim>
+        <signoNome>Aquario</signoNome>
+        <descricao>Aquário (21/01 - 19/02)</descricao>
+    </signo>
+    <signo>
+        <dataInicio>19/02</dataInicio>
+        <dataFim>20/03</dataFim>
+        <signoNome>Peixes</signoNome>
+        <descricao>Peixes (20/02 - 20/03)</descricao>
+    </signo>
+</signos>
